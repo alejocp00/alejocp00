@@ -1,8 +1,8 @@
 Hi there 👋. My name is Alejandro Camacho Pérez
 ---
 
-I'm a 3rd year Computer Science student at the University of Havana
----
+I'm a 3rd year Computer Science student at MatCom, UH.
+
 
 * 🌍  I'm based in La Habana, Cuba.
 * ✉️  You can contact me at [alex00cu@gmail.com](mailto:alex00cu@gmail.com)
