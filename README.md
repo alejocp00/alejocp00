@@ -15,55 +15,51 @@ I'm a 3rd year Computer Science student at MatCom, UH.
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp logo"  />
   <a/>
-  <img width="12" />
   <a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
   <a/>
-  <img width="12" />
   <a href="https://www.haskell.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="32" alt="haskell logo"  />
   <a/>
-  <img width="12" />
   <a href="https://www.lua.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="32" alt="lua logo"  />
   <a/>
-  <img width="12" />
   <a href="https://www.djangoproject.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" alt="django logo"  />
   <a/>
-  <img width="12" />
+
   <a href="https://www.mysql.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo"  />
   <a/>
-  <img width="12" />
+
   <a href="https://git-scm.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
   <a/>
-  <img width="12" />
+
   <a href="https://github.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github logo"  />
   <a/>
-  <img width="12" />
+
   <a href="https://www.latex-project.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="32" alt="latex logo"  />
   <a/>
-  <img width="12" />
+
   <a href="https://daringfireball.net/projects/markdown/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="32" alt="markdown logo"  />
   <a/>
-  <img width="12" />
+
   <a href="https://www.linux.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
   <a/>
-  <img width="12" />
+
   <a href="https://love2d.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/L%C3%96VE_app_icon_%280.10.1%29.svg" height="32" alt="LÖVE2D logo">
   <a/>
-  <img width="12" />
+
   <a href="https://unity.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="32" alt="unity logo"  />
   <a/>
-  <img width="12" />
+
   <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
   <a/>
