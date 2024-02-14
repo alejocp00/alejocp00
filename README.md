@@ -1,7 +1,7 @@
 Hi there 👋. My name is Alejandro Camacho Pérez
 ---
 
-I'm a 3rd year Computer Science student at MatCom, UH.
+I'm a 4th year Computer Science student at MatCom, UH.
 
 
 * 🌍  I'm based in La Habana, Cuba.
@@ -126,7 +126,7 @@ I'm a 3rd year Computer Science student at MatCom, UH.
     rel="noreferrer"
   >
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
       <source
         media="(prefers-color-scheme: light)"
         srcset="
