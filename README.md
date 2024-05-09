@@ -6,7 +6,7 @@ I'm a 4th year Computer Science student at MatCom, UH.
 
 * 🌍  I'm based in La Habana, Cuba.
 * ✉️  You can contact me at [alex00cu@gmail.com](mailto:alex00cu@gmail.com)
-* 🧠  I'm learning Django, LÖVE2D and game development with Unity
+* 🧠  I'm learning LÖVE2D and game development with Unity
 * 🤝  I'm open to collaborating on video game developing projects
 
 ### Skills
