@@ -1,4 +1,4 @@
-Hi there 👋. My name is Alejandro Camacho Pérez
+Hello there! 👋. My name is Alejandro Camacho Pérez
 ---
 
 I'm a 4th year Computer Science student at MatCom, UH.
