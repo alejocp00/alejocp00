@@ -199,7 +199,3 @@ My name is Alejandro. I'm a 4th year Computer Science student at MatCom, UH.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alejocp00&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
-
----
-
-<img src="https://raw.githubusercontent.com/alejocp00/alejocp00/output/snake.svg" alt="Snake animation" />
