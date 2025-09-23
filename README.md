@@ -5,8 +5,7 @@
 My name is Alejandro. I'm a 4th year Computer Science student at MatCom, UH.
 
 * 🌍  I'm based in La Habana, Cuba.
-* 🧠  I'm learning LÖVE2D and game development with Unity and Godot
-* 🤝  I'm open to collaborating on video game developing projects
+* 🧠  I'm learning game development with Unity and Godot
 
 ###
 
