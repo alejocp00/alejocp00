@@ -1,8 +1,8 @@
-# Hello there!👋
+# 👈 Yeap, that's me
 
 ###
 
-My name is Alejandro. I'm a 4th year Computer Science student at MatCom, UH.
+Hello there! My name is Alejandro and I'm currently finishing my Computer Science degree at MatCom, UH.
 
 * 🌍  I'm based in La Habana, Cuba.
 * 🧠  I'm learning game development with Unity and Godot
