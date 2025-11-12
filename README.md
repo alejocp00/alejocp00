@@ -4,8 +4,9 @@
 
 Hello there! My name is Alejandro and I'm currently finishing my Computer Science degree at MatCom, UH.
 
-* 🌍  I'm based in La Habana, Cuba.
-* 🧠  I'm learning game development with Unity and Godot
+* 🌍 I'm based in La Habana, Cuba.
+* 🧠 I'm learning Unity and Godot on my free time.
+* 🎮 Do you wanna develop a game?
 
 ###
 
